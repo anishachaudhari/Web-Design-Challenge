@@ -5,6 +5,12 @@
     height: auto;
 }
 
+.landing_image {
+    padding: 2rem;
+    width: 100%;
+    height: auto;
+}
+
 .visualizations_cover {
     padding-bottom: 2rem;
 }
