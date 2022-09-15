@@ -6,6 +6,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Screenshots](#screenshot)
 - [License](#license) -- https://opensource.org/licenses/MIT
 
 ## Installation
@@ -13,12 +14,24 @@
 ## Usage
         -  Open webpage in browser of your choice URL -- github.website
 ## Screenshot
-![landing_Page] (./)
+![landing_Page](./Resources/assets/images/landingSS.png)
     - Landing Page
-![comparison] (./)
-    - Comparison Page
-![data_page]
+![comparison_lg](./Resources/assets/images/comparison_lg.png)
+    - Comparison Page Large
+![comparison_sm](./Resources/assets/images/comparison_sm.png)
+    - Comparison Page Small
+![data_page](./Resources/assets/images/data.png)
     - Data Page
+![temperature](./Resources/assets/images/temperature.png)
+    -Temperature Page
+![humidity](./Resources/assets/images/humidity.png)
+    -Humidity Page
+![cloudiness](./Resources/assets/images/cloudiness.png)
+    -Cloudiness Page
+![wind](./Resources/assets/images/wind.png)
+    -Wind Page
+
+
 ## Credits
 
 ## License
